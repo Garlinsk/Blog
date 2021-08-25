@@ -1,4 +1,4 @@
-#!/home/garlinsk/Documents/Moringa-core/week4-Flask/Blog/virtual/bin/python3.9
+#!/home/garlinsk/Documents/Moringa-core/week4-Flask/Blog/virtual/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
