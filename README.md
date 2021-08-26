@@ -2,7 +2,7 @@
 
 ## DESCRIPTION
 
-An application that allows users to use that one minute wisely. The users will submit their one minute pitches and other users will vote on them and leave comments to give their feedback on them
+This is an app that allows users to create,comment,edit and submit the blog.
 
 ## User Story
 
@@ -59,7 +59,7 @@ To work with ONE-MINUTE-PITCHES App you need to have some few prerequisites.
     $ ./start.sh
      ```
 
-8. you can run;   $ python3.6 run.py runserver
+8. you can run;   $ python3.9 run.py runserver
 
 ## AUTHOR
 
