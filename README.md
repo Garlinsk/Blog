@@ -4,6 +4,10 @@
 
 This is an app that allows users to create,comment,edit and submit the blog.
 
+## Live demo
+
+[Live Demo Link](https://kanairo-blog.herokuapp.com/)
+
 ## User Story
 
 - Users can see the pitches other people have posted.
