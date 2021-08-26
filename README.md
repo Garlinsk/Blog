@@ -66,6 +66,7 @@ To work with ONE-MINUTE-PITCHES App you need to have some few prerequisites.
  * Franklin Kuloba
 
 ## LICENSE
+
    MIT Licesne
 
  copyright (c) 2021. Franklin Kuloba.
